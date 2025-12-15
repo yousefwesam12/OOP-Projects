@@ -1,0 +1,3 @@
+/Users/yousefwesam398gmail.com/Desktop/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+/Users/yousefwesam398gmail.com/Desktop/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yousefwesam398gmail.com/Desktop/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
