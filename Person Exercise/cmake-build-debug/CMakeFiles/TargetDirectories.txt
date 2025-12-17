@@ -1,0 +1,3 @@
+/Users/yousefwesam398gmail.com/OOP - Course 10/Person Exercise/cmake-build-debug/CMakeFiles/Person_Exercise.dir
+/Users/yousefwesam398gmail.com/OOP - Course 10/Person Exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yousefwesam398gmail.com/OOP - Course 10/Person Exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
