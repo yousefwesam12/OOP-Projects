@@ -23,13 +23,13 @@ class clsInputValidate
     {
          return !(Number<From || Number>To);
     }
-    static bool IsDateBetween(clsDate Date,clsDate Date1,clsDate Date2)
+    static bool IsDateBetween(clsDate Date,clsDate From,clsDate To)
     {
-        if(clsDate::IsDate1AfterDate2(Date1,Date2))
+        if(clsDate::IsDate1AfterDate2(From,To))
         {
-            clsUtil::Swap(Date1,Date2);
+            clsUtil::Swap(From,To);
         }
-        return !(Date.IsDate1BeforeDate2(Date1) || Date.IsDate1AfterDate2(Date2));
+        return !(Date.IsDate1BeforeDate2(From) || Date.IsDate1AfterDate2(To));
     }
     static bool IsValidDate(clsDate Date)
     {
