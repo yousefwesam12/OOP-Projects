@@ -57,7 +57,7 @@ class clsInputValidate
         while(!IsNumberBetween(Number,From,To))
         {
             cout << ErrorMessage << endl;
-            int Number = ReadIntNumber();
+            Number = ReadIntNumber();
         }   
         return Number;
     }
@@ -89,5 +89,4 @@ class clsInputValidate
         return Number;
     
     }
-
 };  
